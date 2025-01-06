@@ -25,7 +25,7 @@ npm install apiabs
 
 ## Exemplo de uso
 
-```bash
+```ts
 import apiabs from "apiabs";
 
 interface User {
